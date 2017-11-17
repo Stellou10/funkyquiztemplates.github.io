@@ -1,0 +1,116 @@
+body {
+height:100vh;
+width:100vw;
+background-image: url("https://i.giphy.com/media/26BRqPg05olzXG1bi/giphy.webp");
+
+}
+
+#div1 {
+   width: 50%;
+	margin:0 auto;
+	height:100vh;
+	display: flex;
+	justify-content: center;
+	flex-wrap:wrap;
+	background-color: lime;
+	border-radius: 12px;
+	
+
+}
+
+#div2 {
+
+
+	background-color: white;
+	font-family: "lucida console";
+	color: black;
+	width: 80%;
+	margin: 10%;
+	display: flex;
+	justify-content: center;
+	flex-wrap:wrap;
+	background-color: #FF00E6;
+	border-top: 30%;
+	margin-left: 10%;
+	padding: 6%;
+	border-radius: 12px;
+
+
+}
+
+#div3 {
+
+	width: 20%;
+	display: flex;
+	justify-content: center;
+	padding: 16px 32px;
+	font-size: 16px;
+    
+	
+}
+
+
+#div4 {
+
+	width: 20%;
+	display: flex;
+	justify-content: center;
+	padding: 16px 32px;
+	font-size: 16px;
+
+}
+
+
+
+
+#div5 {
+
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	padding: 6%;
+	font-size: 16px;
+	margin: 0 auto;
+
+}
+
+
+.button {
+	font-size: 16px;
+ 	background-color: #8B008B;	
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.6s;
+    cursor: pointer;
+    color: black; 
+    border: 2px solid white;
+    border-radius: 12px;
+    font-family: lucida console;
+    font-weight: bold	
+
+}
+
+.button:hover {
+    background-color: #FF00E6;
+    color: lime;
+
+}
+
+
+
+/* other question mark gifs 
+
+http://www.netanimations.net/Animated-gif-three-flashing-question-marks-picture-moving.gif
+
+http://www.netanimations.net/Animated-swirling-question-mark-picture-moving.gif
+
+https://i.giphy.com/media/26BRqPg05olzXG1bi/giphy.webp
+
+*/
